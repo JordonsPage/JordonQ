@@ -15,4 +15,4 @@ Hello, I'm Jordon Quinn(he/him)<br><br>👨‍💻Cognitive Science major at UCO
 ---
 [![](https://visitcount.itsvg.in/api?id=JordonsPage&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
